@@ -1,2 +1,5 @@
 # speech-algorithms
-A list of speech algorithms in Python
+Python implementation of a list of speech algorithms including:
+
+- Phase Vocoder
+- Multiband Excitation Vocoder
